@@ -1,0 +1,5 @@
+C:\Users\HASAN.KOC\Desktop\WCF\WcfServiceEx1\WcfServiceEx1\bin\WcfServiceEx1.dll
+C:\Users\HASAN.KOC\Desktop\WCF\WcfServiceEx1\WcfServiceEx1\bin\WcfServiceEx1.pdb
+C:\Users\HASAN.KOC\Desktop\WCF\WcfServiceEx1\WcfServiceEx1\obj\Debug\WcfServiceEx1.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\WCF\WcfServiceEx1\WcfServiceEx1\obj\Debug\WcfServiceEx1.dll
+C:\Users\HASAN.KOC\Desktop\WCF\WcfServiceEx1\WcfServiceEx1\obj\Debug\WcfServiceEx1.pdb

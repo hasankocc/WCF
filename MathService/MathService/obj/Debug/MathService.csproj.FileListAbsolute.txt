@@ -1,0 +1,5 @@
+C:\Users\HASAN.KOC\Desktop\WCF\MathService\MathService\bin\MathService.dll
+C:\Users\HASAN.KOC\Desktop\WCF\MathService\MathService\bin\MathService.pdb
+C:\Users\HASAN.KOC\Desktop\WCF\MathService\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+C:\Users\HASAN.KOC\Desktop\WCF\MathService\MathService\obj\Debug\MathService.dll
+C:\Users\HASAN.KOC\Desktop\WCF\MathService\MathService\obj\Debug\MathService.pdb
